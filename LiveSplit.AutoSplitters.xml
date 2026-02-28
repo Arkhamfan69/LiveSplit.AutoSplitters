@@ -5,12 +5,12 @@
             <Game>Poppy Playtime: Chapter 5</Game>
         </Games>
         <URLs>
-            <URL>https://github.com/Lox-r/Autosplitters/blob/main/Poppy%20Playtime%20Chapter5/PptCh5.asl</URL>
-            <URL>https://github.com/Lox-r/Autosplitters/blob/main/Poppy%20Playtime%20Chapter5/PPCH5.Settings.xml</URL>
+            <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/Poppy%20Playtime%20Chapter5/PptCh5.asl</URL>
+            <URL>https://raw.githubusercontent.com/Lox-r/Autosplitters/refs/heads/main/Poppy%20Playtime%20Chapter5/PPCH5.Settings.xml</URL>
             <URL>https://github.com/ru-mii/uhara/blob/main/bin/uhara9</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Autostart, autosplit &amp; Loadremoval by Lox &amp; Arkham</Description>
+        <Description>Auto-Start, Auto-Split &amp; Load-Removal by Lox &amp; Arkhamfan69</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
